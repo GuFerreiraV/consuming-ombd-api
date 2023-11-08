@@ -1,6 +1,6 @@
-Consumindo API 
+# Consumindo API 
 
-Nesta Branch estarei consumindo a OMDB API para fins de estudo.
+> In this Branch I will be consuming the OMDB API for study purposes.
 
-API abaixo:
+API below:
 [OMDB](https://www.omdbapi.com/)
