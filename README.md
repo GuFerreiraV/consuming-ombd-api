@@ -1,4 +1,4 @@
-# Consumindo API 
+# Consuming API  
 
 > In this Branch I will be consuming the OMDB API for study purposes.
 
