@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.estudosExtras.DesafioApi;
+package br.com.project.screenmatch.estudosExtras.DesafioApi;
 import java.io.IOException;
 import java.util.Scanner;
 
