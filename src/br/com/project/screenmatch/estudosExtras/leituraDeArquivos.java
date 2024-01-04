@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.estudosExtras;
+package br.com.project.screenmatch.estudosExtras;
 
 import java.io.File;
 import java.io.FileNotFoundException;
