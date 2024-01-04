@@ -1,10 +1,10 @@
-package br.com.alura.screenmatch.principal;
+package br.com.project.screenmatch.principal;
 
-import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
-import br.com.alura.screenmatch.calculos.FiltroRecomendacao;
-import br.com.alura.screenmatch.modelos.Episodio;
-import br.com.alura.screenmatch.modelos.Filme;
-import br.com.alura.screenmatch.modelos.Serie;
+import br.com.project.screenmatch.calculos.CalculadoraDeTempo;
+import br.com.project.screenmatch.calculos.FiltroRecomendacao;
+import br.com.project.screenmatch.modelos.Episodio;
+import br.com.project.screenmatch.modelos.Filme;
+import br.com.project.screenmatch.modelos.Serie;
 
 import java.util.ArrayList;
 
