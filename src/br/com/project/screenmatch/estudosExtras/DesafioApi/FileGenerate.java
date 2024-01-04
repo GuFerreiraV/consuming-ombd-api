@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.estudosExtras.DesafioApi;
+package br.com.project.screenmatch.estudosExtras.DesafioApi;
 
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
