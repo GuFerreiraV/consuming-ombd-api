@@ -1,8 +1,8 @@
-package br.com.alura.screenmatch.principal;
+package br.com.project.screenmatch.principal;
 
-import br.com.alura.screenmatch.excecao.ErroDeConversaoDeErro;
-import br.com.alura.screenmatch.modelos.Titulo;
-import br.com.alura.screenmatch.modelos.TituloOmdb;
+import br.com.project.screenmatch.excecao.ErroDeConversaoDeErro;
+import br.com.project.screenmatch.modelos.Titulo;
+import br.com.project.screenmatch.modelos.TituloOmdb;
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
